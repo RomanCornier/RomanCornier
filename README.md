@@ -1,5 +1,5 @@
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,figma,sequelize,supabase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,figma,sequelize)](https://skillicons.dev)
 <!---
 RomanCornier/RomanCornier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
